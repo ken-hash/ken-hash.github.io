@@ -103,14 +103,14 @@ const RESOURCES = {
 "assets/lib/assets/images/artifacts/UnboundGauntlet.png": "2b235b63b698ffb8c5b2baf0accdd714",
 "assets/lib/assets/images/artifacts/WardOfTheDarkness.png": "9d6faf096a42a647e978a7a55dd23382",
 "assets/lib/assets/images/artifacts/ZakynthosCoin.png": "f3ee1ec66901392f87a75d1392d4aa23",
-"assets/LICENSE": "dff82056d1700fda5f1e0d017520b580",
+"assets/LICENSE": "cdb8544ef85a58068c95606b419b2d4b",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "6a9d01a48e50990341ebfc63891645a1",
-"/": "6a9d01a48e50990341ebfc63891645a1",
-"main.dart.js": "1ffdec21eb981a4a68e232e845da19ed",
+"index.html": "91f04fc7a08f3dd541e5b4d79d0bd27a",
+"/": "91f04fc7a08f3dd541e5b4d79d0bd27a",
+"main.dart.js": "c4dc50e1e011477a7c8802d94e4fc50f",
 "manifest.json": "2ae2382018e4456b9e8983657cee671e"
 };
 
